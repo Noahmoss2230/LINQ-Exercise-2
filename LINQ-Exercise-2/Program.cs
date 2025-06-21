@@ -15,7 +15,8 @@ namespace LINQGameList
                 "The Legend of Zelda",
                 "Minecraft",
                 "Call of Duty",
-                "Among Us",
+                "NBA 2K",
+                "Grand Theft Auto 6",
                 "Super Mario Bros",
                 "Portal",
                 "Elden Ring"
